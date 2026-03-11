@@ -13,3 +13,4 @@ while(q<=10){// while ma condition lagai ha
 
 return 0;
 }
+
